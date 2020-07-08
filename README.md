@@ -1,0 +1,1 @@
+本软件使用需要下载ffmpeg.exe，python3.6版本及以上，安装PyQt5等。
